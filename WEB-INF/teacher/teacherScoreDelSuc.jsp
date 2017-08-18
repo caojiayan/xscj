@@ -68,7 +68,13 @@ a:link {
    a:active {  
    text-decoration: none;  
    color: #FF0000;  
-}  
+} 
+#accordion{
+	margin-left: 100px;
+}
+#stuSerivce{
+  	margin-left: 100px;
+} 
 	</style>
   </head>
   

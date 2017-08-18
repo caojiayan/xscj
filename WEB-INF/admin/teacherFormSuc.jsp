@@ -54,6 +54,12 @@ body {
 .flag{
 	color:red;
 }
+#accordion{
+	margin-left: 100px;
+}
+#stuSerivce{
+  	margin-left: 100px;
+}
 </style>
 
 </head>

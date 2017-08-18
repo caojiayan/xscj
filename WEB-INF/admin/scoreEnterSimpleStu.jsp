@@ -79,6 +79,12 @@ function saveScore(){
 .datalist tr.altrow{
 	background-color:#c7e5ff;	/* 隔行变色 */
 }
+#accordion{
+	margin-left: 100px;
+}
+#stuSerivce{
+  	margin-left: 100px;
+}
 </style>
   </head>
   

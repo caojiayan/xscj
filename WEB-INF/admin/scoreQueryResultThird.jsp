@@ -30,6 +30,12 @@ table td{
 	border-color: #a9c6c9;
 	text-align: center;
 } */
+#accordion{
+	margin-left: 100px;
+}
+#stuSerivce{
+  	margin-left: 100px;
+}
 </style>
   </head>
   

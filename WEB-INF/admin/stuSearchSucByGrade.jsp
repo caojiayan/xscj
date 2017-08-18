@@ -87,6 +87,12 @@ body {
 a:link{
 	text-decoration:none;
 }
+#accordion{
+	margin-left: 100px;
+}
+#stuSerivce{
+  	margin-left: 100px;
+}
 </style>
   </head>
   

@@ -216,14 +216,6 @@ tr.tip{
 			</tr>
 		</table>
 		</form>
-		<!--<div>
-			<div class="ui-widget">
-				<div class="ui-state-highlight ui-corner-all" style="margin-top: 20px; padding: 0 .7em;">
-						<p><span class="ui-icon ui-icon-info" style="float: left; margin-right: .3em;"></span>
-					<strong>学生：</strong> 用户名必须是学生本人的学号；<strong>教师：</strong>用户名必须是教师本人编号；<strong>管理员：</strong>用户名必须是管理员本人姓名</p>
-				</div>
-			</div>
-		</div>-->
 	</center>
 </body>
 </html>

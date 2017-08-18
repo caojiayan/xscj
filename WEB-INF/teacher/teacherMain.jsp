@@ -54,6 +54,12 @@ a:link{
 a:hover{
 color:ORANGE;
 }
+#accordion{
+	margin-left: 100px;
+}
+#stuSerivce{
+  	margin-left: 100px;
+}
 	</style>
   </head>
   

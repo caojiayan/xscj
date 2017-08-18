@@ -152,6 +152,12 @@ a:hover{
 color:red;
 	padding-left:6px;
 }
+#accordion{
+	margin-left: 100px;
+}
+#stuSerivce{
+  	margin-left: 100px;
+}
 </style>
 
 </head>

@@ -53,6 +53,12 @@ body {
 	margin: 50px;
 	background-color:#7ecef4;
 }
+#accordion{
+	margin-left: 100px;
+}
+#stuSerivce{
+  	margin-left: 100px;
+}
 </style>
   </head>
   
